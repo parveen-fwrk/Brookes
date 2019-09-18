@@ -1,0 +1,45 @@
+@media only screen and (max-width: 767px) {
+	/*---header---*/
+	.banner-header .overlay {
+		position: absolute;
+		height: 158px;
+	}
+	.banner-txts{
+		display:none;
+	}
+	h2.heading-page {
+    font-size: 20px;
+}
+.heading-page:after{
+	left:28%;
+}
+.investor-box a{
+	display:inline-block;
+}
+.heading-page:after {
+    top: 30px;
+    left: 0 !important;
+}
+.banner-header li.nav-item {
+    padding: 5px 10px;
+}
+/*--login form--*/
+.login-form .form-group input {
+		width: 100%;
+}
+.field-icon{
+	right: 40px;
+}
+	/*---end---*/
+footer .top-sctn h6 {
+    margin-bottom: 3px;
+	margin-top: 10px;
+}
+footer .theme-btn {
+    margin-left: 0px !important;
+	padding: 5px 20px !important;
+	margin-top: 7px !important;
+}
+footer .top-sctn ul li {
+    margin-top: 0px;
+}
